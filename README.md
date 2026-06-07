@@ -1,4 +1,4 @@
-## Hi there! This is Sandy :D
+## Hi! This is Sandy :D
 
 <!--
 **SandyyyZheng/SandyyyZheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm a student struggling between pursuing a Ph.D. and finding a job.
-- I'm currently working on LLM safety and video anomaly detection for MLLMs.
+- I'm currently working on Agentic AI, Multimodal Reasoning, and Trustworthy LLMs.
 - I'm praying for some conference / journal to accept my first paper.
 - I'm a huge fan of the LOTR. 🔮 YOU SHALL ALL PASS (anything including exam, interview, assessment, etc.)! 🔮
 - See my personal website [here](https://sandyyyzheng.github.io/).
